@@ -1,0 +1,74 @@
+{
+    "phones" : [
+        {
+            "brand": "Apple",
+            "model": "iPhone 13",
+            "price": 799
+        },
+        {
+            "brand": "Samsung",
+            "model": "Galaxy S21",
+            "price": 699
+        },
+        {
+            "brand": "Google",
+            "model": "Pixel 6",
+            "price": 599
+        }
+    ],
+    "laptops" : [
+        {
+            "brand": "Dell",
+            "model": "XPS 13",
+            "price": 999
+        },
+        {
+            "brand": "Apple",
+            "model": "MacBook Air",
+            "price": 1099
+        },
+        {
+            "brand": "HP",
+            "model": "Spectre x360",
+            "price": 1199
+        }
+        
+    ],
+    "tablets" : [
+        {
+            "brand": "Apple",
+            "model": "iPad Pro",
+            "price": 799
+        },
+        {
+            "brand": "Samsung",
+            "model": "Galaxy Tab S7",
+            "price": 649
+        },
+        {
+            "brand": "Microsoft",
+            "model": "Surface Pro 7",
+            "price": 749
+        }
+    ],
+    "accessories" : [
+        {
+            "type": "Headphones",
+            "brand": "Sony",
+            "model": "WH-1000XM4",
+            "price": 349
+        },
+        {
+            "type": "Smartwatch",
+            "brand": "Apple",
+            "model": "Apple Watch Series 7",
+            "price": 399
+        },
+        {
+            "type": "Tablet Case",
+            "brand": "Logitech",
+            "model": "Slim Folio",
+            "price": 99
+        }
+    ]
+}
